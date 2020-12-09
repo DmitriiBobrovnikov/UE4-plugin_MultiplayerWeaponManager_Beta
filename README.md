@@ -6,7 +6,7 @@
 
 ![preview](https://github.com/DmitriiBobrovnikov/UE4-plugin-Multiplayer-Weapon-Manager-Beta/blob/gh-pages/Screenshots/Screenshot_1.png)
 
-*Как установить:*
+```diff # *Как установить:* ```
 
    * 1.Скачать папку WeaponManager
    
