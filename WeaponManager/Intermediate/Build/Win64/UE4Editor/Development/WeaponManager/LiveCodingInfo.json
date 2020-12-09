@@ -1,0 +1,21 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.WeaponManager.cpp.obj": [
+			"BaseWeaponCharacter.cpp.obj",
+			"GameWeaponManager.cpp.obj",
+			"WeaponEnums.cpp.obj",
+			"WeaponManager.cpp.obj",
+			"BaseFireWeapon.cpp.obj",
+			"BaseWeapon.cpp.obj"
+		],
+		"Module.WeaponManager.gen.cpp.obj": [
+			"BaseFireWeapon.gen.cpp.obj",
+			"BaseWeapon.gen.cpp.obj",
+			"BaseWeaponCharacter.gen.cpp.obj",
+			"GameWeaponManager.gen.cpp.obj",
+			"WeaponEnums.gen.cpp.obj",
+			"WeaponManager.init.gen.cpp.obj"
+		]
+	}
+}

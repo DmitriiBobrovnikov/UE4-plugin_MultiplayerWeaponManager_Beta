@@ -1,0 +1,25 @@
+C:\UnrealProject\GamePugin\Plugins\WeaponManager\Intermediate\Build\Win64\UE4Editor\Development\WeaponManager\Definitions.WeaponManager.h
+C:/UnrealProject/GamePugin/Plugins/WeaponManager/Intermediate/Build/Win64/UE4Editor/Inc/WeaponManager/BaseFireWeapon.gen.cpp
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\UnrealProject\GamePugin\Plugins\WeaponManager\Source\WeaponManager/Weapons/BaseFireWeapon.h
+C:\UnrealProject\GamePugin\Plugins\WeaponManager\Source\WeaponManager\Weapons\../Weapons/BaseWeapon.h
+C:\UnrealProject\GamePugin\Plugins\WeaponManager\Source\WeaponManager\Weapons\../Enums/WeaponEnums.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/DataTable.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Public\DataTableUtils.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DataTable.generated.h
+C:\UnrealProject\GamePugin\Plugins\WeaponManager\Intermediate\Build\Win64\UE4Editor\Inc\WeaponManager\BaseWeapon.generated.h
+C:\UnrealProject\GamePugin\Plugins\WeaponManager\Intermediate\Build\Win64\UE4Editor\Inc\WeaponManager\BaseFireWeapon.generated.h
+C:/UnrealProject/GamePugin/Plugins/WeaponManager/Intermediate/Build/Win64/UE4Editor/Inc/WeaponManager/BaseWeapon.gen.cpp
+C:/UnrealProject/GamePugin/Plugins/WeaponManager/Intermediate/Build/Win64/UE4Editor/Inc/WeaponManager/BaseWeaponCharacter.gen.cpp
+C:\UnrealProject\GamePugin\Plugins\WeaponManager\Source\WeaponManager/Character/BaseWeaponCharacter.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\UnrealProject\GamePugin\Plugins\WeaponManager\Intermediate\Build\Win64\UE4Editor\Inc\WeaponManager\BaseWeaponCharacter.generated.h
+C:/UnrealProject/GamePugin/Plugins/WeaponManager/Intermediate/Build/Win64/UE4Editor/Inc/WeaponManager/GameWeaponManager.gen.cpp
+C:\UnrealProject\GamePugin\Plugins\WeaponManager\Source\WeaponManager/Component/GameWeaponManager.h
+C:\UnrealProject\GamePugin\Plugins\WeaponManager\Intermediate\Build\Win64\UE4Editor\Inc\WeaponManager\GameWeaponManager.generated.h
+C:/UnrealProject/GamePugin/Plugins/WeaponManager/Intermediate/Build/Win64/UE4Editor/Inc/WeaponManager/WeaponEnums.gen.cpp
+C:/UnrealProject/GamePugin/Plugins/WeaponManager/Intermediate/Build/Win64/UE4Editor/Inc/WeaponManager/WeaponManager.init.gen.cpp

@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.2",
+	"FriendlyName": "WeaponManager",
+	"Description": "",
+	"Category": "Weapon",
+	"CreatedBy": "Raider",
+	"CreatedByURL": "",
+	"DocsURL": "https://docs.google.com/document/d/19FcLJ7oSk1m6veqbGicCwXzAjDAdzV5maXgVBARpwmg/edit?usp=sharing",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "WeaponManager",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

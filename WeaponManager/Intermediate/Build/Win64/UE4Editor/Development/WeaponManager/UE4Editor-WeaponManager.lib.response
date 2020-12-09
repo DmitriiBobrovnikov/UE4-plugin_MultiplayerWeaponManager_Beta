@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-WeaponManager.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\UnrealProject\GamePugin\Intermediate\Build\Win64\GamePuginEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\UnrealProject\GamePugin\Plugins\WeaponManager\Intermediate\Build\Win64\UE4Editor\Development\WeaponManager\Module.WeaponManager.cpp.obj"
+"C:\UnrealProject\GamePugin\Plugins\WeaponManager\Intermediate\Build\Win64\UE4Editor\Development\WeaponManager\Module.WeaponManager.gen.cpp.obj"
+"C:\UnrealProject\GamePugin\Plugins\WeaponManager\Intermediate\Build\Win64\UE4Editor\Development\WeaponManager\Default.rc2.res"
+/OUT:"C:\UnrealProject\GamePugin\Plugins\WeaponManager\Intermediate\Build\Win64\UE4Editor\Development\WeaponManager\UE4Editor-WeaponManager.lib"
+/INCLUDE:IMPLEMENT_MODULE_WeaponManager
