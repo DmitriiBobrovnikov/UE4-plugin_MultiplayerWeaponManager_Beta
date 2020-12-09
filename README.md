@@ -4,3 +4,4 @@
 
 # Также Скоро появится документация по его использованию
 
+![alt text](https://github.com/DmitriiBobrovnikov/UE4-plugin-Multiplayer-Weapon-Manager-Beta/tree/gh-pages/Screenshots/Screenshot_1.png?raw=true)
