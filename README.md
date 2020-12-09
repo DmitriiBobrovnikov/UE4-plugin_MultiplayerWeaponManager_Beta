@@ -11,3 +11,4 @@
    * 1.Скачать папку WeaponManager
    
 
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+SSS) `#f03c15`
