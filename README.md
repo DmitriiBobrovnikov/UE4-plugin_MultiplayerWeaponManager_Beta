@@ -3,7 +3,8 @@
 Это бета версия мультиплеерного плагина по созданию и использованию оружия в сетевой игре, позволит вам быстро создавать оружия и использовать их. 
 Также с его помошь можно создовать не только огнестрельное оружие но и другие типы такие как: холодное, Бомбы и мины и т.д
 
-<a text="Быстрый старт">https://github.com/DmitriiBobrovnikov/UE4-plugin_MultiplayerWeaponManager_Beta/blob/gh-pages/README.md#%D0%B1%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9-%D1%81%D1%82%D0%B0%D1%80%D1%82</a>
+[Быстрый старт](https://github.com/DmitriiBobrovnikov/UE4-plugin_MultiplayerWeaponManager_Beta/blob/gh-pages/README.md#%D0%B1%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9-%D1%81%D1%82%D0%B0%D1%80%D1%82)
+[Как установить]()
 
 ## Также Скоро появится документация по его использованию
 
