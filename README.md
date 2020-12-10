@@ -5,7 +5,25 @@
 
 ## Также Скоро появится документация по его использованию
 
-![preview](https://github.com/DmitriiBobrovnikov/UE4-plugin-Multiplayer-Weapon-Manager-Beta/blob/gh-pages/Screenshots/Screenshot_1.png)
+# Быстрый старт
+   * 1.Создать новый класс "Character"
+   * 2.Добавить Компанент "GameWeaponManager" смотри изображение ниже
+   
+![preview](https://github.com/DmitriiBobrovnikov/UE4-plugin_MultiplayerWeaponManager_Beta/blob/gh-pages/Screenshots/Screenshot_2.png)
+   * 3.Добавить имя и тип сокета в настройках компонента в TMap "WeaponSoccets" что находится в категории "Weapon Settings"
+   * ps/ Сокиты нужно добавить на скелет вашего персонажа под тем же именем что указали при формировании "WeaponSoccets"
+   
+![preview](https://github.com/DmitriiBobrovnikov/UE4-plugin_MultiplayerWeaponManager_Beta/blob/gh-pages/Screenshots/Screenshot_3.png)
+
+   * 4.Вызываем функции из WeaponManager для реализации использования оружия, такие как (Fire и StopFire) 
+   * ps/ Для удобства назвал их так но они используются не только для огнестрельного оружия, но и для всех типов
+   
+![preview](https://github.com/DmitriiBobrovnikov/UE4-plugin_MultiplayerWeaponManager_Beta/blob/gh-pages/Screenshots/Screenshot_4.png)
+
+   * 5.Вызываем функции из WeaponManager для реализации Логики прицеливания (Specific и StopSpecific) или другой переопределенной логики 
+   
+![preview](https://github.com/DmitriiBobrovnikov/UE4-plugin_MultiplayerWeaponManager_Beta/blob/gh-pages/Screenshots/Screenshot_5.png)
+
 
 ### *Как установить:* 
 
