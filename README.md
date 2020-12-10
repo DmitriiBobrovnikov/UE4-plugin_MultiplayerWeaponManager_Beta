@@ -4,7 +4,8 @@
 Также с его помошь можно создовать не только огнестрельное оружие но и другие типы такие как: холодное, Бомбы и мины и т.д
 
 [Быстрый старт](https://github.com/DmitriiBobrovnikov/UE4-plugin_MultiplayerWeaponManager_Beta/blob/gh-pages/README.md#%D0%B1%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9-%D1%81%D1%82%D0%B0%D1%80%D1%82)
-[Как установить]()
+
+[Как установить](https://github.com/DmitriiBobrovnikov/UE4-plugin_MultiplayerWeaponManager_Beta#%D0%BA%D0%B0%D0%BA-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C)
 
 ## Также Скоро появится документация по его использованию
 
