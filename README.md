@@ -5,7 +5,7 @@
 
 [Быстрый старт](README.md#быстрый-старт)
 
-<a>[Как установить](https://github.com/DmitriiBobrovnikov/UE4-plugin_MultiplayerWeaponManager_Beta#%D0%BA%D0%B0%D0%BA-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C)</a>
+[Как установить](README.md#как-установить)
 
 ## Также Скоро появится документация по его использованию
 
